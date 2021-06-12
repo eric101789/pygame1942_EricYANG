@@ -5,6 +5,7 @@ from player import Player
 from enemy import Enemy
 from explosion import Explosion
 
+
 parent_path = Path(__file__).parents[1]
 image_path = parent_path / 'res'
 icon_path = image_path / 'airplaneicon.png'
